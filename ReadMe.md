@@ -24,7 +24,7 @@
 结果如下：
 
 
-![image](public/HSR_book/results.png)
+![image](results.png)
 
 
 即：截止到2025.04.14-18:00时的数据，双指数模型预测到2025年4月26日04:00，预计<font color=red size=4 >剩余5.1万</font> 册未发放。
